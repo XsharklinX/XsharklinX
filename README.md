@@ -1,7 +1,7 @@
 <!-- Perfil GitHub de XsharklinX -->
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="David Bonilla — GameDev y desarrollador de apps" />
+  <img width="1774" height="887" alt="ChatGPT Image May 17, 2026, 12_27_02 PM" src="https://github.com/user-attachments/assets/ab1e1994-fa9d-4cc8-a592-afa4c69cb5b6" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
   <a href="https://github.com/XsharklinX?tab=repositories">
     <img src="https://img.shields.io/badge/Repositorios-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=0284C7" alt="Repositorios" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=XsharklinX&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=XsharklinX&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
-<h3 align="center">Estudiante de Ingeniería en Sistemas · GameDev · Desarrollador de apps</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas · Desarrollador de apps</h3>
 
 <p align="center">
   Construyo herramientas de escritorio, productos locales y experiencias interactivas con foco en utilidad, diseño limpio y una base técnica mantenible.
@@ -144,12 +144,9 @@ Me interesa crear software que se sienta directo, rápido y fácil de usar. Trab
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XsharklinX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=XsharklinX&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </p>
 
-<details>
-  <summary><strong>Más métricas</strong></summary>
   <br />
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsharklinX&theme=github-compact&hide_border=true&bg_color=0D1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true" alt="Activity graph" />
@@ -162,7 +159,7 @@ Me interesa crear software que se sienta directo, rápido y fácil de usar. Trab
 ---
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/e11afce4-f5e7-4f1b-951a-782fc6589ffb" />
 </p>
 
 <p align="center">
