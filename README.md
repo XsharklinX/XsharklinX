@@ -143,6 +143,8 @@ Me interesa crear software que se sienta directo, rápido y fácil de usar. Trab
 
 ## GitHub
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XsharklinX)](https://github.com/XsharklinX/github-readme-stats)
+
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=XsharklinX&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </p>
