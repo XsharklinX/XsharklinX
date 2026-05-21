@@ -47,7 +47,7 @@ Me interesa crear software que se sienta directo, rápido y fácil de usar. Trab
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3>SharkReader</h3>
+      <h3><a href="https://github.com/XsharklinX/SharkReader">SharkReader</a></h3>
       <p>
         Lector de libros digitales para <strong>ePub y PDF</strong>, pensado como una app de escritorio moderna: biblioteca local, progreso de lectura, personalización visual y una experiencia cómoda para leer sin fricción.
       </p>
