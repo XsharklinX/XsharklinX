@@ -55,7 +55,7 @@ Me interesa crear software que se sienta directo, rápido y fácil de usar. Trab
         El objetivo es construir una herramienta simple por fuera, pero sólida por dentro: buena organización, interfaz clara, rendimiento estable y una identidad visual propia.
       </p>
       <p>
-        <a href="https://github.com/XsharklinX/SharkReader-App"><strong>Repositorio</strong></a>
+        <a href="https://github.com/XsharklinX/SharkReader"><strong>Repositorio</strong></a>
       </p>
     </td>
     <td width="38%" valign="top">
