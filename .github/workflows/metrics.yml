@@ -18,7 +18,7 @@ jobs:
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: XsharklinX
           filename: github-metrics.svg
           template: classic

@@ -1,0 +1,10 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">GitHub Actions will replace this image with generated metrics and achievements.</desc>
+  <rect width="900" height="220" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="218" rx="11" stroke="#1F6FEB" stroke-opacity="0.55"/>
+  <text x="48" y="76" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">GitHub metrics</text>
+  <text x="48" y="116" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="17">This card is generated automatically by GitHub Actions.</text>
+  <text x="48" y="150" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Achievements · languages · activity · repositories</text>
+  <text x="48" y="184" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Run the Metrics workflow after pushing to replace this placeholder.</text>
+</svg>
